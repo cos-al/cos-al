@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cos-al
-- 👀 I’m interested in Ethics of Artificial Intelligence (bias, discrimination and privacy)
-- 🌱 I’m currently learning Natural Language Processing
-<!---
+- 🌱 I’m interested in Ethics of Artificial Intelligence (bias, discrimination and privacy)
+<!---🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on ...>
 <- 📫 How to reach me>
 --->
